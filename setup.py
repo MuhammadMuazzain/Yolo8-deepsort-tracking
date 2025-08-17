@@ -24,6 +24,7 @@ setup(
     python_requires=">=3.7.0",
     license='GPL-3.0',
     description='Ultralytics YOLOv8 and HUB',
+    # long_description=README,
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/ultralytics/ultralytics",
